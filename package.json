@@ -1,0 +1,21 @@
+{
+  "name": "timbot-dev",
+  "version": "1.0.0",
+  "description": "mo- bot-discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "timbottest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jsp"
+  },
+  "keywords": [
+    "sd"
+  ],
+  "author": "tim",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
